@@ -1,5 +1,16 @@
-# vasculature_notebook
-Interactive vascular segmentation for 3D images
+# Braincharter Vasculature Notebook v1.0
+Interactive vascular segmentation for 3D images. 
+
+
+- The notebook will install the necessary python files; comment the "!pip install" if you do not want this.
+- Jump to the section "Parameters to set" to set the necessary parameters. All lines that can/should be edited are identified in comments in the two cell blocks of this section
+- Images are plotted automatically at each step. You can then adjust some parameters and rerun the process until satisfied!
+
+-------
+Versions:
+
+*V1.0*: A lot of upcoming features were not included, as the paper related to those is not published yet. This covers the 'basic' functions for vascular segmentation
+
 
 -------
 @Author: Michaël Bernier michael.bernier@usherbrooke.ca
